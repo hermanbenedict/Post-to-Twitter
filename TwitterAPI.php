@@ -1,4 +1,4 @@
-<?
+<?php
 $oauthTimestamp = time();
 $oauthNonce = md5(uniqid(rand(), true));
 
