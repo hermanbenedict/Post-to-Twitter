@@ -36,3 +36,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 You can contact the author, Helman Mwageni, on Telegram @malinzema or WhatsApp +255759891571.
+
+try out our Telegram AI bot here https://t.me/WaGPTBot
